@@ -5,10 +5,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.TreeMap;
 
-/**
- * Hello world!
- *
- */
 public class Main
 {
     /**

@@ -50,7 +50,7 @@ public class Skiplist {
 		size++;
 		findPath(path, num, level);
 		/*
-		 * 这里执行插入代码
+		 * insert
 		 */
 		SkiplistNode newNode = new SkiplistNode(level, num);
 		for (int i = 0; i < level; i++) {
